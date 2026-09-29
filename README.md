@@ -6,7 +6,7 @@
 
 Building and verifying digital systems, from RTL to silicon.
 
-[Portfolio](https://enzochao0114.github.io/) · [Resume](https://enzochao0114.github.io/assets/resume.html) · [LinkedIn](https://www.linkedin.com/in/enzochao) · [Email](mailto:enzochao.sy@gmail.com)
+[🌐 Portfolio](https://enzochao0114.github.io/) · [📄 Resume](https://enzochao0114.github.io/assets/resume.html) · [💼 LinkedIn](https://www.linkedin.com/in/enzochao) · [✉️ Email](mailto:enzochao.sy@gmail.com)
 
 </div>
 
